@@ -1,2 +1,0 @@
-DAGSHUB_REPO = "https://dagshub.com/NisaSalma/Experimen-SML"
-MLFLOW_TRACKING_URI = "https://dagshub.com/NisaSalma/Experimen-SML.mlflow" 
